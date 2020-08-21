@@ -2,3 +2,4 @@ Ginの練習をしてきます。
 基本的なワークフローを学びます。
 git add
 git status
+git diff
